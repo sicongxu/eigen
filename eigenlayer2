@@ -1,1 +1,7 @@
-
+{
+  "name": "EigenLabs-4",
+  "website": "https://www.eigenlayer.xyz/",
+  "description": "Shared Security To Hyperscale Ethereum",
+  "logo": "https://raw.githubusercontent.com/sicongxu/eigen/main/2.png",
+  "twitter": "https://twitter.com/eigenlayer"
+}
