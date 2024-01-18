@@ -1,7 +1,7 @@
 {
   "name": "AllNodes",
   "website": "www.allnodes.com",
-  "description": "A non-custodial node platform"
+  "description": "A non-custodial node platform",
   "logo": "https://raw.githubusercontent.com/sicongxu/eigen/main/3.png",
   "twitter": "https://twitter.com/Allnodes"
 }
