@@ -1,0 +1,7 @@
+{
+  "name": "Geth",
+  "website": "https://geth.ethereum.org/",
+  "description": "Geth is an Ethereum execution client meaning it handles transactions, deployment and execution of smart contracts and contains an embedded computer known >
+  "logo": "https://raw.githubusercontent.com/sicongxu/eigen/main/geth.png",
+  "twitter": "https://twitter.com/go_ethereum"
+}
