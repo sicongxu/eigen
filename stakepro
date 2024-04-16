@@ -1,7 +1,7 @@
 {
   "name": "StakePro",
-  "website": "https://node.berrylab.xyz",
-  "description": "We’re a team of tech enthusiasts who are passionate about shaping the future of web3. At StakePro, we believe in keeping things simple yet effective. Our team is dedicated to providing top-notch node and validation services, ensuring projects we chose to run the nodes, run smoothly and efficiently.",
+  "website": "https://stakecat.space/",
+  "description": "All our members are Solo Stakers on Ethereum, Rocket pool and DVT, we run one of the first Obol DVT clusters on mainnet. We have varied experience in other networks such Gnosischain, Cosmos, Celestia and including EigenDA testnet.",
   "logo": "https://raw.githubusercontent.com/sicongxu/eigen/main/stakepro.png",
   "twitter": ""
 }
